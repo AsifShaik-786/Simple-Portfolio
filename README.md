@@ -3,8 +3,10 @@
 A modern and responsive **portfolio website** built using **HTML, CSS, and JavaScript**.  
 This website showcases my **skills, projects, education, and contact information** in a clean and interactive way.
 
-## 🔗 Live Demo
-              (https://your-deployed-link.vercel.app/)
+---
+
+## 🔗 Live Demo  
+👉 [View Portfolio](https://simple-portfolio-eosin-ten.vercel.app)
 
 ##  Features
 - Responsive navbar with toggle menu for mobile devices  
@@ -16,7 +18,9 @@ This website showcases my **skills, projects, education, and contact information
   - **Education** → Academic details with logos  
   - **Skills** → Progress bars for technical skills  
   - **Projects** → Showcase of my work with live demo & GitHub links  
-  - **Contact** → Contact form 
+  - **Contact** → Contact form  
+
+---
 
 ## Tech Stack
 - **HTML5**  
@@ -24,13 +28,3 @@ This website showcases my **skills, projects, education, and contact information
 - **JavaScript**  
 - **Boxicons** for icons  
 
- 
-
-
-
----
-
-## 📂 How to Use
-1. Clone this repository  
-   ```bash
-   git clone https://github.com/your-username/portfolio-website.git

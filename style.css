@@ -603,3 +603,12 @@ span{
     padding: 1.5rem;
   }
 }
+.quote{
+  text-align: center;
+  margin-top: 10px;
+  font-size: 40px;
+  color: #005f56;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  -webkit-text-stroke: 1px black;
+}
